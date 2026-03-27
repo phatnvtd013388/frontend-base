@@ -16,9 +16,9 @@
         Cà phê nguyên chất rang xay mỗi ngày, đậm đà hương vị truyền thống.
       </p>
 
-      <div class="d-flex justify-content-between align-items-center mt-auto pt-3">
+      <div class="d-flex flex-wrap justify-content-between align-items-center mt-auto pt-3 gap-2">
         <span class="product-price">{{ formattedPrice }}</span>
-        <button class="btn btn-primary btn-sm rounded-pill px-3 fw-medium action-btn">Add to Cart</button>
+        <button class="btn btn-primary btn-sm rounded-pill px-3 fw-medium action-btn text-nowrap">Add to Cart</button>
       </div>
     </div>
   </RouterLink>
